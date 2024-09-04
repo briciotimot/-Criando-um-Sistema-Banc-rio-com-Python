@@ -22,7 +22,4 @@ Execute o arquivo banco_virtual.py.
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
-
 Espero que este README ajude a entender o funcionamento do projeto. Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato! 😊🏦
